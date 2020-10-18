@@ -1,12 +1,12 @@
 # Happy-NLW3
  Aplicativo Happy
-# Technologies
-  - ReactJ
+# :computer: Technologies
+  - ReactJS
   - React Native
   - Express
   - SQLite
   - ORM
-# Features
+# :rocket: Features
   - Visualização de mapa utilizando o Leaflet;
   - Marcações no mapa;
   - Registros de orfanatos no banco de dados;
