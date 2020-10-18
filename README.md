@@ -5,7 +5,7 @@
   - React Native
   - Express
   - SQLite
-  - ORM
+  - TypeORM
 # :rocket: Features
   - Visualização de mapa utilizando o Leaflet;
   - Marcações no mapa;
