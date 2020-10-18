@@ -1,0 +1,50 @@
+.nearby-orphanage-box {
+    position: relative;
+    height: 240px;
+    width: 100%;
+    background-color: #ebf2f9;
+    border: solid 2px #15B6D6;
+    border-radius: 15px;
+    padding: 20px;
+    color: #2e2e2e;
+    text-align: left;
+    overflow: hidden;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.301);
+    margin-bottom: 20px;
+}
+
+.nearby-orphanage-box h1 {
+    font-size: 30px;
+    height: 40px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.nearby-orphanage-box div {
+    margin-bottom: 20px;
+}
+
+.nearby-orphanage-box .orphanage-about {
+    margin-bottom: 20px;
+}
+
+.nearby-orphanage-box .details {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+
+    width: 60px;
+    height: 60px;
+    background-color: #ffd666;
+    border-radius: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: background-color 0.2s;
+}
+    
+.nearby-orphanage-box .details:hover {
+    background-color: #96feff;
+}
