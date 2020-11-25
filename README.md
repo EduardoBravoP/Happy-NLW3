@@ -4,6 +4,8 @@
  <img src="./assets/home.png" alt="home">
  <img src="./assets/mapa.png" alt="mapa">
  <img src="./assets/navegacao.gif" alt="navegação">
+ <hr />
+
 # :computer: Technologies
   - ReactJS
   - React Native
