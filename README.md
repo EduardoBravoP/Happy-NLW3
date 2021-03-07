@@ -1,5 +1,5 @@
-# Happy-NLW3
- Aplicativo Happy com uma feature a mais, desenvolvido durante o NLW3.
+# Happy
+ Ache orfanatos perto de voce.
 
  <img src="./assets/home.png" alt="home">
  <img src="./assets/mapa.png" alt="mapa">
