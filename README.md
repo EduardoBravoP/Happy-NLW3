@@ -54,7 +54,7 @@
 # 💿 How to use (backend):
   ```bash
   # Clone this repository
-  $ git clone <https://github.com/EduardoBravoP/Happy-NLW3.git>
+  $ git clone https://github.com/EduardoBravoP/Happy-NLW3.git
 
   # Go into the repository
   $ cd Happy-NLW3
@@ -68,5 +68,5 @@
   # Run the application in developer mode
   $ yarn dev
 
-  # The server will start in port:3333
+  # The server will start on port:3333
   ```
