@@ -4,6 +4,10 @@
  <img src="./assets/home.png" alt="home">
  <img src="./assets/mapa.png" alt="mapa">
  <img src="./assets/navegacao.gif" alt="navegação">
+ <img src="./assets/celular.jpg" alt="celular">
+ <img src="./assets/celular2.jpg" alt="celular">
+ <img src="./assets/celular3.jpg" alt="celular">
+ 
 # :computer: Technologies
   - ReactJS
   - React Native
